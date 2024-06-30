@@ -86,4 +86,4 @@ php artisan storage:link
 php artisan serve
 ```
 
-
+you may also check http://198.199.83.74/api/files for files
